@@ -1,6 +1,7 @@
 # Created by Matt G. Chiu — Eastman School of Music
 # mchiu9@u.rochester.edu / matthewgychiu@gmail.com (860)682–3832
 # functions for calculating manualArrays
+# If you would like to use the functions or code, please contact me
 
 from music21 import *
 import numpy as np
